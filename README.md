@@ -14,7 +14,7 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 
 
-## 🛠Tech Stack
+## Tech Stack
 - **HTML5** – Structure of the calculator
 - **CSS3** – Styling and layout (gradient background, shadows, rounded buttons)
 - **JavaScript (ES6)** – Functionality and event handling
