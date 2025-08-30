@@ -5,7 +5,7 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 
 
-## 🚀 Features
+##  Features
 - Perform basic arithmetic operations (+, −, ×, ÷, %).
 - `AC` button to clear the screen.
 - `DEL` button to delete the last entered digit.
@@ -14,7 +14,7 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 - **HTML5** – Structure of the calculator
 - **CSS3** – Styling and layout (gradient background, shadows, rounded buttons)
 - **JavaScript (ES6)** – Functionality and event handling
@@ -32,6 +32,6 @@ Implement scientific calculator functions (sin, cos, log, etc.)
 
 Add history of calculations
 
-Contributing
+Contributing👍
 
 Contributions are welcome! Feel free to fork this repo and create pull requests.
